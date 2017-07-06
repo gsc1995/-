@@ -1,0 +1,8 @@
+<view class="container legend-list">
+    <block wx:for="{{heros}}" wx:key="nickname">
+        <text class="legend-item">{{item.nickname}}</text>
+        <view class="image-selection">
+            <image style="width:80px; height: 80px; background-color:#eeeeee;" src="{{item.img}}" mode="aspectFit"></image>
+        </view>
+    </block>
+</view>

@@ -1,0 +1,14 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/logs/logs",
+        "pages/free/free",
+        "pages/legend/legends"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "blue",
+        "navigationBarTitleText": "lol助手",
+        "navigationBarTextStyle": "black"
+    }
+}
